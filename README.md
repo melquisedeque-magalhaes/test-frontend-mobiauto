@@ -9,25 +9,25 @@
 
 ## Exercicios
 
-<h3 align="center">
+<h3>
     Os exercicios estão organizados por pasta, os exercicios 1, 2 e 4 foram usados apenas HTML e Javascript, ja o exercicio 4 foi feito em NodeJS.
 </h3>
 
 ### Exercicio 1
 
- <p align="center">
+ <p>
     Você pode rodar o exercicio 1 apenas abrindo o index.html no seu navegador, para testar você pode digitar o valor no prompt e ver o resultado esperado em tela.
  </p>
 
  ### Exercicio 2
 
- <p align="center">
+ <p>
     Você pode rodar o exercicio 2 apenas abrindo o index.html no seu navegador, de inicio você ja tera objeto setados dentro da função upadtedData, se quiser alterar os objetos, e so acessar a main.js e fazer a atualização no currentObject ou no  newDataObject, e o resultado sera aprensentado no navegador.
  </p>
 
  ### Exercicio 3
 
- <p align="center">
+ <p>
     O Exercicio 3 e uma api NodeJS bem simples usando Fastify.
  </p>
 
@@ -48,7 +48,7 @@ Se você não tiver a extensão instalada no seu VSCODE, você podera testar a a
 
  ### Exercicio 4
 
- <p align="center">
+ <p>
     Você pode rodar o exercicio 4 apenas abrindo o index.html no seu navegador, para testar você pode digitar o valor no prompt e ver o resultado esperado em tela.
  </p>
 
