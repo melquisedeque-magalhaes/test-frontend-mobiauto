@@ -93,7 +93,7 @@ $ git clone https://github.com/melquisedeque-magalhaes/test-frontend-mobiauto
 $ cd test-frontend-mobiauto
 $ cd tabela-fip
 $ pnpm i ou npm i ou yarn
-$ adicione a url da api de tabelas fips dentro do arquivo .env, se ele não existir crio.
+$ adicione a url da api de tabelas fips dentro do arquivo .env, se ele não existir você poderar cria-lo.
 $ npm run dev ou pnpm run dev ou yarn start
 ```
 
