@@ -1,0 +1,6 @@
+@baseUrl = http://localhost:3333
+
+# @name getInfoCaracter
+
+GET {{baseUrl}}/list-caracter-info
+Content-Type: application/json
